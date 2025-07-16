@@ -1,5 +1,7 @@
 # !/bin/sh
 # . "$(dirname "$0")/_/husky.sh"
-
+echo ""
 echo "🔧 Running Build..."
+echo ""
+
 npm run build
